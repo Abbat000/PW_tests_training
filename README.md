@@ -6,7 +6,7 @@
 To run tests in this repo, please do following commands:
 
 Install dependencies
- 'npm install'
+`npm install`
 
-Run tests
-'npx playwright test'
+Run tests:
+`npx playwright test`
